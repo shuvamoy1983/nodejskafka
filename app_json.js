@@ -1,24 +1,6 @@
 
-const jsonData = [{
-  "name":"Alexander Nnakwue",
-  "age": 24,
-  "occupation": "Software Engineer",
-  "religion": "Islam",
-  "sports":"football"
-},
-{
-"name":"Alexander Nnakwue Chinedu",
-  "age": 25,
-  "occupation": "Software Tester",
-  "religion": "Christain",
-  "sports":"Soccer champ"
-},
-{
-"name":"Alexander Nnakwue Ebuka",
-  "age": 26,
-  "occupation": "Technical Author & Reviewer",
-  "religion": "Christain",
-  "sports":"Hand-ball"
-}];
+const jsonData = 
+[{"id": 215,"Name": "Shuva","Salary": 660},{"id": 226,"Name": "Aditi","Salary": 15060},{"id": 228,"Name": "Mike2","Salary": 35333},{"id": 229,"Name": "Steve","Salary": 8330}]
+;
 
 module.exports = jsonData;

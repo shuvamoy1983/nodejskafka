@@ -10,7 +10,20 @@
   "author": "Alexander Nnakwue",
   "license": "MIT",
   "dependencies": {
+    "avsc": "^5.4.22",
     "dotenv": "^8.2.0",
-    "kafka-node": "^4.1.3"
-  }
+    "install": "^0.13.0",
+    "json-to-avro": "^1.1.1",
+    "kafka-node": "^4.1.3",
+    "npm": "^6.14.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firebase007/kafka_producer_consumer_tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/firebase007/kafka_producer_consumer_tutorial/issues"
+  },
+  "homepage": "https://github.com/firebase007/kafka_producer_consumer_tutorial#readme"
 }

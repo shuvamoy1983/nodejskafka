@@ -1,8 +1,8 @@
 require('dotenv').config();
 
 const config = {
-  KafkaHost:process.env.KAFKA_HOST,
-  KafkaTopic: process.env.KAFKA_TOPIC
+  KafkaHost: "34.86.156.241:9094",
+  KafkaTopic: "nodejs.mydb.emp"
 };
 
 module.exports = config;
